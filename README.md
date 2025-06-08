@@ -38,3 +38,7 @@ After logging in, users can select an avatar from a predefined set or upload the
 
 Chat Interface:
 The chat UI displays messages in real time, showing sender avatars and timestamps. Users can view past conversations and continue chatting without interruption.
+
+
+![image](https://github.com/user-attachments/assets/cc4ffeea-2b1a-45d3-aadb-c1769f815e7e)
+
